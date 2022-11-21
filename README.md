@@ -1,3 +1,3 @@
 # Framework Koa
 
-  npm run dev
+  `npm run dev`
